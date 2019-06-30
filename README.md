@@ -1,2 +1,2 @@
 # imc_calculator
-A imc calculator made width flutter
+A imc calculator made with flutter
